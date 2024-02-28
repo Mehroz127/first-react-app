@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/first-react-app/static/css/main.23a80a0e.css",
+    "main.js": "/first-react-app/static/js/main.03cbdb73.js",
+    "static/media/website.jpg": "/first-react-app/static/media/website.6e193fcca7243775570c.jpg",
+    "static/media/digital.jpg": "/first-react-app/static/media/digital.56f8bdb664763a0d0e0d.jpg",
+    "static/media/mobile.jpg": "/first-react-app/static/media/mobile.ecd2e59fcbb3eae6be46.jpg",
+    "static/media/content.jpg": "/first-react-app/static/media/content.61e6ebec97ffb378a3c2.jpg",
+    "static/media/vecteezy_programmer-working-on-computer_4578621.svg": "/first-react-app/static/media/vecteezy_programmer-working-on-computer_4578621.c7683987b914384b9ef07bcfdb2d58e6.svg",
+    "static/media/seo.jpg": "/first-react-app/static/media/seo.164d88d54f98ad790262.jpg",
+    "static/media/graphic.jpg": "/first-react-app/static/media/graphic.03af531408600a8cc1e3.jpg",
+    "index.html": "/first-react-app/index.html",
+    "main.23a80a0e.css.map": "/first-react-app/static/css/main.23a80a0e.css.map",
+    "main.03cbdb73.js.map": "/first-react-app/static/js/main.03cbdb73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23a80a0e.css",
+    "static/js/main.03cbdb73.js"
+  ]
+}
